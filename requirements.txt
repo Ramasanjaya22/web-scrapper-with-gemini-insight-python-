@@ -1,0 +1,5 @@
+google-generativeai
+pytest
+pandas
+beautifulsoup4
+requests
